@@ -1,3 +1,3 @@
 #!/bin/sh
-
-curl --head https://www.baeldungtest.com
+# error  --head > -head
+curl -head https://www.baeldungtest.com
