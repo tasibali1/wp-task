@@ -1,1 +1,1 @@
-curl --head https://www.baeldungtest.com
+curl --https://www.baeldungtest.com
