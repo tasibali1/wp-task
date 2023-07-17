@@ -1,1 +1,1 @@
-curl --head -x -t https://www.baeldungtest.com
+curl --head -xt https://www.baeldungtest.com
