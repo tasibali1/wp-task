@@ -1,2 +1,2 @@
-curl --head -xx https://www.baeldungtest.com 
+curl --head -xxx https://www.baeldungtest.com   
 
